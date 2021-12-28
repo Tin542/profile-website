@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Quiz Online",
+    subtitle: "OnQuiz",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A Website to take quiz using jsp, css, java servlet, MVC 2 model",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Tin542/QuizOnline",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Quiz Online",
+    subtitle: "OnQuiz",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A Website to take quiz using jsp, css, java servlet, MVC 2 model",
+    image: "./quiz.png",
+    link: "https://github.com/Tin542/QuizOnline",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Spirit Astrology",
+    subtitle: "SpiritAstro",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "An admin Website to manage user, service of Astrology app",
+    image: "./astro.png",
+    link: "https://github.com/Tin542/Astrology_FE",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Quiz Online",
+    subtitle: "OnQuiz",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "A Website to take quiz using jsp, css, java servlet, MVC 2 model",
+    image: "./project-1.gif",
+    link: "https://github.com/Tin542/QuizOnline",
   },
 ];
 
@@ -53,8 +53,8 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
+  "PostgreSQL",
+  "Microsoft SQL Server",
   "Material UI",
+  "Java"
 ];

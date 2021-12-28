@@ -1,0 +1,13 @@
+footer {
+    position: relative;
+    width: 100%;
+    padding: 20px;
+    background: #000000;
+  }
+
+  .footer-content{
+    text-align: center;
+    color: #ffffff;
+    width: 100%;
+    justify-content: space-between;
+  }
